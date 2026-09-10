@@ -45,5 +45,5 @@ Abra o terminal na pasta "Consumo-Energia", onde estão os arquivos "app.py" e "
 No terminal, utilize o comando: "python app.py".
 Após executar o comando, o programa solicitará o nome do aparelho, a potência em watts e o tempo médio de uso diário.
 
-## Autor(a)
-### Giovana Brizaco Reimberg
+## Autora
+**Giovana Brizaco Reimberg**
